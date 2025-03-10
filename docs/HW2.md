@@ -5,6 +5,10 @@ noteID: 0f259d59-e448-4dbd-8106-19a603f7c348
 ## Homework 2
 ### Winter 2025
 #### Jan Kasen
+#### GitHub Link: 
+
+https://github.com/jankasen/CS130-HW2
+
 #### Due Mar 9 2025 11:55pm
 ### Problem 1
 
