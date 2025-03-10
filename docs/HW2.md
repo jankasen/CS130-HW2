@@ -265,7 +265,7 @@ def classify_sequence(n_0, n_1, n_2) :
 (get-model)
 ```
 
-c) Write a python code to implement your "All Positive" SMT constraint using Z3 and solve for the answer(ref [1](https://z3prover.github.io/api/html/namespacez3py.html),[2](https://microsoft.github.io/z3guide/programming/Z3%20Python%20-%20Readonly/advanced/)).
+(c) Write a python code to implement your "All Positive" SMT constraint using Z3 and solve for the answer(ref [1](https://z3prover.github.io/api/html/namespacez3py.html),[2](https://microsoft.github.io/z3guide/programming/Z3%20Python%20-%20Readonly/advanced/)).
 
 ```python
 from z3 import *
@@ -286,7 +286,7 @@ else:
 	print("Unsatisfiable")
 ```
 
-d) Write test inputs for each case.
+(d) Write test inputs for each case.
 
 ```
 AllNonPositive: [-1, -1, -1]
@@ -295,7 +295,7 @@ Mixed: [1, -1, 1]
 ```
 
 
-e) Now assume the input array has no size limit, What special cases should be tested? (Think about boundary conditions)
+(e) Now assume the input array has no size limit, What special cases should be tested? (Think about boundary conditions)
 
 - Empty array
 - Array with fewer than 5 elements

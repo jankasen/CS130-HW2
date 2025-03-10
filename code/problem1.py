@@ -1,3 +1,4 @@
+# Problem 1 Part 3 (c)
 from z3 import *
 
 n0 = Int('n0')
